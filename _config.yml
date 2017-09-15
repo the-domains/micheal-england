@@ -1,0 +1,69 @@
+layout_spectrum: 0.020262750499411532
+typography_spectrum: 0.3882267631251033
+color:
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+  brandStrength: 0.37589890844225515
+  lightness: 0.9724485293093441
+  saturation: 0.056276949691484765
+  rhythmicContrast: 0.31967711984124586
+coverPrefs:
+  filter: false
+analytics:
+  google: UA-52121318-1
+  twitter: '@mikelikethebike'
+author:
+  name: Mike England
+  email: micheallengland@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/831382b9-8a8b-4f59-bad7-4be12adc7a48.png
+name: Micheal England
+url: 'http://michealengland.com'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/24d9c00f-f363-4444-89d0-c46485fca1cc.png
+title: Micheal England
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a240c1d-943d-41f0-b792-c3d88ea0b062.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a240c1d-943d-41f0-b792-c3d88ea0b062.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: WordPress Developer & Designer
+purpose:
+  - type: contact
+    url: 'mailto:micheallengland@gmail.com'
+    label: Email
+  - type: external
+    url: 'https://twitter.com/mikelikethebike'
+    label: Twitter
+github: true
